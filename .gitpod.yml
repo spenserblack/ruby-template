@@ -1,0 +1,6 @@
+vscode:
+  extensions:
+    - 'EditorConfig.EditorConfig'
+    - 'rebornix.Ruby'
+tasks:
+  - init: .devcontainer/postCreate.sh
