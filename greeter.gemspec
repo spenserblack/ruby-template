@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
   spec.homepage                = 'https://github.com/ghost/greeter'
   spec.license                 = 'MIT'  # Or whatever license you want to use
 
-  spec.required_ruby_version   = Gem::Requirement.new('>= 2.6.0')
+  spec.required_ruby_version   = Gem::Requirement.new('>= 2.7.0')
 
   spec.files                   = Dir['lib/**/*'] + Dir['exe/*'] + Dir['[A-Z]*']
 
