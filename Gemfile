@@ -6,7 +6,7 @@ git_source(:github) { |repo_name| "https://github.com/#{repo_name}" }
 
 gemspec
 
-gem 'overcommit', '~> 0.59'
+gem 'overcommit', '~> 0.62'
 gem 'rake', '~> 13.0'
 gem 'rspec', '~> 3.11'
 gem 'rspec-snapshot', '~> 2.0'
